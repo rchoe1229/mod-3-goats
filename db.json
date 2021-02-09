@@ -1,0 +1,39 @@
+{
+  "goats": [
+    {
+      "id": 1,
+      "name": "Afton",
+      "age": 12,
+      "color": "brown",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hausziege_04.jpg/1200px-Hausziege_04.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cain",
+      "age": 4,
+      "color": "black",
+      "image": "https://images.squarespace-cdn.com/content/v1/57be0c166a4963a0ef7370ba/1531407102035-MDF90HQJ4OX6WQ515N9Q/ke17ZwdGBToddI8pDm48kOggE0Ch6pMGalwtLMqzsSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ufo5RWkg_J4of0jUNHaDHx6pZKBvpVYzidBWCapg0tuoMuEaB2HPGSYDV-11UTcW2g/domestic-goat-207305_1920.jpg?format=2500w"
+    },
+    {
+      "id": 3,
+      "name": "Dan",
+      "age": "18",
+      "color": "Gray",
+      "image": "https://media.sandiegoreader.com/img/photos/2014/02/17/02.16.14_pygmy_goat_t670_1_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+    },
+    {
+      "id": 4,
+      "name": "Holm",
+      "age": "6",
+      "color": "brown",
+      "image": "https://static.wikia.nocookie.net/vsbattles/images/2/24/Brown_Goat.jpg/revision/latest/scale-to-width-down/340?cb=20190421151516"
+    },
+    {
+      "id": 5,
+      "name": "Jeraxus",
+      "age": 10,
+      "color": "red",
+      "image": "https://i.pinimg.com/originals/00/44/9d/00449d52fc2c3ebaa1867878fa3b5fca.jpg"
+    }
+  ]
+}

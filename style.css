@@ -1,0 +1,30 @@
+.goat-container {
+    display: flex;
+    justify-content: center;
+}
+
+.goat-div {
+    width: 200px;
+    margin: 30px;
+}
+
+.goat-div img {
+    width: 200px;
+    height: 200px;
+}
+
+#goat-form-div h1 {
+    text-align: center;
+}
+
+#goat-form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin: 8px;
+}
